@@ -1,5 +1,5 @@
 Hello, My name is Marisa. 
-I'm going to show you how I use git
+Hello, My name is Alita.
 Let's start with git init
 
 
